@@ -1,0 +1,10 @@
+{
+  "name": "bv",
+  "version": "1.0.0",
+  "dependencies": {
+    "chalk": "2.0.0"
+  },
+  "renovate": {
+    "bumpVersion": "minor"
+  }
+}
